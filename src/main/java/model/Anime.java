@@ -11,7 +11,7 @@ public class Anime {
 	private User autor;
 	
 	public Anime() {
-		this(0)
+		this(0);
 	}
 	
 	public Anime(int id) {
